@@ -1,0 +1,37 @@
+﻿div {
+background: rgba(180,120,50,0.2);
+border:solid black;
+}
+.banner
+{
+
+}
+.logo
+{
+
+background-color:red;
+}
+.search
+{
+background-color:white;
+
+}
+.left
+{
+background-color:blue;
+}
+.right
+{
+background-color:lightpink;
+}
+.content
+{
+background-color:lightyellow;
+
+}
+
+#footer
+{
+background-color:gray;
+color:blue;
+}
